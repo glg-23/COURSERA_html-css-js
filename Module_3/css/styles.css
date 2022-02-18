@@ -1,0 +1,31 @@
+* {
+  font-family: "Comic Sans MS", sans-serif !important;
+}
+
+.navbar-custom {
+  background-color: gray !important;
+  margin: -1px;
+}
+
+.navbar-brand-custom {
+  color: black !important;
+}
+
+ul {
+  margin: 0 !important;
+  background-color: white;
+}
+
+li {
+  border-bottom: solid black;
+}
+
+.nav-item {
+  color: black !important;
+}
+
+#navbar-menu {
+  padding: 0;
+}
+
+/* Gianluigi D'Antimi */
