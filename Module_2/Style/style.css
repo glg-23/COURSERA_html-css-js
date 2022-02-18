@@ -1,1 +1,73 @@
+*{
+  font-family: "Comic Sans MS", sans-serif;
+  box-sizing:border-box;
+}
 
+h1 {
+  margin-top: 30px;
+  font-size: 175%;
+  width: 100%;
+  text-align: center;
+}
+
+div{
+  float:left;
+}
+
+section{
+  margin:15px;
+  border-style: solid;
+  border-color: black;
+  border-width:1px;
+  position: relative;
+  padding: 30px 20px 10px 20px;
+  background-color: #a6a6a6;
+}
+
+section>h2{
+  font-size: 125%;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  padding-left: 30px;
+  padding-right: 30px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  margin: 0px;
+}
+
+#chickenHeader {
+  background-color: #ff9999;
+}
+#beefHeader {
+  background-color: #b30000;
+  color: white;
+}
+#sushiHeader{
+  background-color: #fff0b3;
+}
+
+
+@media (min-width:992px){
+  .col-lg-4{
+    width: 33.33%;
+  }
+}
+
+@media (min-width:768px) and (max-width:991px){
+  .col-md-6{
+      width: 50%;
+  }
+  .col-md-12{
+    width: 100%;
+  }
+}
+
+@media (max-width:767px){
+  .col-md-12{
+      width: 100%;
+  }
+}
+
+/* Gianluigi D'Antimi */
