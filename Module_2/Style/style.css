@@ -1,9 +1,9 @@
-*{
+* {
   font-family: "Comic Sans MS", sans-serif;
-  box-sizing:border-box;
+  box-sizing: border-box;
 }
 
-h1 {  
+h1 {
   font-size: 40px;
   width: 100%;
   margin-top: 30px;
@@ -11,11 +11,11 @@ h1 {
   text-align: center;
 }
 
-div{
-  float:left;
+div {
+  float: left;
 }
 
-section{
+section {
   margin: 30px;
   border: solid black 2px;
   position: relative;
@@ -24,7 +24,7 @@ section{
   font-size: 20px;
 }
 
-section>h2{
+section > h2 {
   width: 30%;
   min-width: 100px;
   font-size: 25px;
@@ -46,31 +46,30 @@ section>h2{
   color: white;
 }
 
-#sushiHeader{
+#sushiHeader {
   background-color: #fff0b3;
   color: black;
 }
 
-
 /*media*/
-@media (min-width:992px){
-  .col-lg-4{
+@media (min-width: 992px) {
+  .col-lg-4 {
     width: 33.33%;
   }
 }
 
-@media (min-width:768px) and (max-width:991px){
-  .col-md-6{
-      width: 50%;
+@media (min-width: 768px) and (max-width: 991px) {
+  .col-md-6 {
+    width: 50%;
   }
-  .col-md-12{
+  .col-md-12 {
     width: 100%;
   }
 }
 
-@media (max-width:767px){
-  .col-md-12{
-      width: 100%;
+@media (max-width: 767px) {
+  .col-md-12 {
+    width: 100%;
   }
 }
 
