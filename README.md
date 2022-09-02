@@ -19,4 +19,4 @@ Branch "gh-pages": assignments completed
 
 -----
 
-![Certificato Coursera-John Hopkins University](https://github.com/glg-23/COURSERA_html-css-js/blob/main/Gianluigi%20D'Antimi%20-%20Coursera%2C%20Johns%20Hopkins%20University%20-%20HTML%2C%20CSS%2C%20Javascript%20for%20Web%20Developers.jpg)
+<img src="https://github.com/glg-23/COURSERA_html-css-js/blob/main/Gianluigi%20D'Antimi%20-%20Coursera%2C%20Johns%20Hopkins%20University%20-%20HTML%2C%20CSS%2C%20Javascript%20for%20Web%20Developers.jpg" height="400px"/>
